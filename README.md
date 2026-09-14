@@ -16,6 +16,7 @@
 ## 🛠️ Skills
 
 - Python
+- streamlit
 - Java
 - HTML
 - CSS
