@@ -4,7 +4,7 @@
 
 ### 💻 CSE Student | Aspiring Software Developer | AI & Web Development Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Building+%7C+Learning+%7C+Improving+%7C+Shipping;Exploring+Software+Development;Learning+DSA+%26+Problem+Solving;Building+Real-World+Projects+🚀" />
+
 
 <br>
 
