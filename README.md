@@ -113,16 +113,6 @@ Building responsive websites and learning modern frontend development using HTML
 </div>
 
 ---
-
-## 💻 Most Used Languages
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryankumarrai077&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
 <div align="center">
 
 <picture>
