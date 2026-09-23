@@ -6,16 +6,17 @@
 
 
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Building+%7C+Learning+%7C+Improving+%7C+Shipping;Exploring+Software+Development;Learning+DSA+%26+Problem+Solving;Building+Real-World+Projects+🚀" />
+
 <br>
 
 <a href="https://github.com/aryankumarrai077">
-<img src="https://github.com/aryankumarrai077">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-<a href="https://www.linkedin.com/">
-<img src="https://www.linkedin.com/in/aryan-kumar-rai-8288a1380/">
+<a href="https://www.linkedin.com/in/aryan-kumar-rai-8288a1380/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-
 </div>
 
 ---
