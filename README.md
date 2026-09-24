@@ -2,7 +2,7 @@
 
 # ⚡ Aryan Rai
 
-### `CSE Student` • `Developer` • `Problem Solver` • `AI Explorer`
+### `CSE Student` • `Developer` • `Problem Solver` 
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+%7C+Breaking+%7C+Learning;Turning+Ideas+into+Code+%F0%9F%92%BB;Exploring+AI+%26+Computer+Vision+%F0%9F%A4%96;Learning+DSA+One+Problem+at+a+Time+%F0%9F%A7%A9;Always+Building+Something+New+%F0%9F%9A%80" />
 
