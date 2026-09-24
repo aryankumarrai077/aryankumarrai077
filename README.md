@@ -1,39 +1,33 @@
 <div align="center">
 
-# 👋 Hi, I'm Aryan Kumar Rai
+# ⚡ Aryan Rai
 
-### 💻 CSE Student | Aspiring Software Developer | AI & Web Development Enthusiast
+### `CSE Student` • `Developer` • `Problem Solver` • `AI Explorer`
 
-
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Building+%7C+Learning+%7C+Improving+%7C+Shipping;Exploring+Software+Development;Learning+DSA+%26+Problem+Solving;Building+Real-World+Projects+🚀" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+%7C+Breaking+%7C+Learning;Turning+Ideas+into+Code+%F0%9F%92%BB;Exploring+AI+%26+Computer+Vision+%F0%9F%A4%96;Learning+DSA+One+Problem+at+a+Time+%F0%9F%A7%A9;Always+Building+Something+New+%F0%9F%9A%80" />
 
 <br>
 
-<a href="https://github.com/aryankumarrai077">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aryankumarrai077)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
 
-<a href="https://www.linkedin.com/in/aryan-kumar-rai-8288a1380/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 🧑‍💻 About Me
 
-- 🎓 Computer Science Engineering student
-- 💻 Interested in Software Development and Web Development
-- 🐍 Learning Python and building practical applications
-- ☕ Learning Java and Data Structures & Algorithms
-- 🌐 Exploring HTML, CSS and JavaScript
-- 🤖 Exploring Computer Vision and AI
-- 🚀 I learn by building real-world projects
-- 🎯 Currently focused on improving my programming and problem-solving skills
-
----
-
+```text
+┌──────────────────────────────────────────────┐
+│  Hey! I'm Aryan 👋                           │
+│                                              │
+│  🎓 B.Tech CSE Student                      │
+│  💻 Learning Software Development           │
+│  🤖 Exploring AI & Computer Vision           │
+│  🧩 Practicing DSA & Problem Solving        │
+│  🌐 Building Web Projects                   │
+│  🚀 Turning ideas into working projects      │
+└──────────────────────────────────────────────┘
 ## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
