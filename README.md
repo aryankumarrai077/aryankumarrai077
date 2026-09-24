@@ -17,7 +17,7 @@
 
 ## 🧑‍💻 About Me
 
-```text
+```
 ┌──────────────────────────────────────────────┐
 │  Hey! I'm Aryan 👋                           │
 │                                              │
@@ -28,6 +28,7 @@
 │  🌐 Building Web Projects                   │
 │  🚀 Turning ideas into working projects      │
 └──────────────────────────────────────────────┘
+```
 ## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
