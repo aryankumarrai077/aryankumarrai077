@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ Aryan Rai
+# ⚡ Aryan kumar rai
 
 ### `CSE Student` • `Developer` • `Problem Solver` 
 
