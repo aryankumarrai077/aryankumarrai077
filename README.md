@@ -24,7 +24,8 @@
 │  🎓 B.Tech CSE Student                      │
 │  💻 Learning Software Development           │
 │  🤖 Exploring AI & Computer Vision           │
-│  🧩 Practicing DSA & Problem Solving        │
+│  🧩 Practicing DSA & Problem Solving
+          leetcode x codeforce        │
 │  🌐 Building Web Projects                   │
 │  🚀 Turning ideas into working projects      │
 └──────────────────────────────────────────────┘
